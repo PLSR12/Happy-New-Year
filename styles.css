@@ -1,0 +1,18 @@
+*{
+    width:  100vw;
+    height:  100vh;
+    margin: auto;
+}
+
+body{
+    background-image: url(../CSS/assets/new-year.jpg);
+}
+
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 250px ;
+    font-size: 100px;
+}
+
+ 
